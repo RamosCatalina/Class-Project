@@ -2,7 +2,7 @@
 
 #  Objective 
 
-The team's goal is to develop an app with geography information of all countries that can be used in schools to teach kids the most important geographical facts 
+The team's goal was to develop a basic app with geography information of all countries that can be used in schools to teach kids the most important geographical facts 
 about each country. For example, the app will show the Top 10 geographical features (i.e., mountains, rivers, lakes, canyons, forests) of the selected geographical region.
 
 The data source was the Wikipedia site. The procurement process is the following:
